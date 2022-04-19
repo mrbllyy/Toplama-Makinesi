@@ -2,4 +2,4 @@
 Calculator application that can only perform addition using Kotlin.
 
 
-<img src="screenshots.gif" alt="screenshots" style="width:270px">
+<img src="screenshots.gif" alt="screenshots" style="width:240px">
