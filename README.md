@@ -1,4 +1,5 @@
 # Toplama Makinesi
- Calculator application that can only perform addition using Kotlin.
+Calculator application that can only perform addition using Kotlin.
 
-<img src="screenshots.gif></img>
+
+<img src="screenshots.gif" alt="screenshots" style="width:48px">
